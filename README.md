@@ -15,7 +15,7 @@ I built **Idea Board** for my best friend who suffers from "3 AM idea overload."
 ## Demo
 
 ### Video Demo
-https://github.com/user-attachments/assets/ideaBoard.mp4
+[https://github.com/user-attachments/assets/ideaBoard.mp4](https://github.com/Vijaykr35/idea-board/blob/main/frontend/public/ideaBoard.mp4)
 
 > **Note**: Demo video file is also located in `frontend/public/ideaBoard.mp4`.
 
